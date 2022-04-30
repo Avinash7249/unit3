@@ -1,0 +1,5 @@
+#show{
+    display: grid;
+    grid-template-columns: repeat(4,20%);
+    gap: 5%;
+}
